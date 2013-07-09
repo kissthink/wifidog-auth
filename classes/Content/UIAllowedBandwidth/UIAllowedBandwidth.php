@@ -46,7 +46,7 @@
  * Load required classes
  */
 require_once('classes/LocaleList.php');
-require_once('classes/Locale.php');
+require_once('classes/WifidogLocale.php');
 
 /**
  * Shows the remaining bandwidth for the current user

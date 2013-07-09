@@ -45,7 +45,7 @@
      /**
       * Load Locale class if Gettext support is not available
       */
-      require_once ('classes/Locale.php');
+      require_once ('classes/WifidogLocale.php');
  }
 
  /**

@@ -92,7 +92,7 @@ require_once ('classes/Exceptions/SecurityException.php');
 require_once ('classes/AbstractDb.php');
 AbstractDb::getObject();//This is here so we get reliable SQL vs PHP profiling
 
-require_once ('classes/Locale.php');
+require_once ('classes/WifidogLocale.php');
 require_once ('classes/Dependency.php');
 
 

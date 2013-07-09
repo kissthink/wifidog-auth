@@ -44,7 +44,7 @@
 /**
  * Load required files
  */
-require_once('classes/Locale.php');
+require_once('classes/WifidogLocale.php');
 
 if (!empty ($_REQUEST['wifidog_language'])) {
         $session = Session::getObject();
@@ -59,8 +59,8 @@ if (!empty ($_REQUEST['wifidog_language'])) {
         }
 }
 
-$locale = Locale::getCurrentLocale();
-Locale::setCurrentLocale($locale);
+$locale = WifidogLocale::getCurrentLocale();
+WifidogLocale::setCurrentLocale($locale);
 $locale_id = $locale->getId();
 
 if (isset ($smarty)) {

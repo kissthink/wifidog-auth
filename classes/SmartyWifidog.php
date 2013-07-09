@@ -44,7 +44,7 @@
 /**
  * Load required classes
  */
-require_once("classes/Locale.php");
+require_once("classes/WifidogLocale.php");
 require_once("classes/Utils.php");
 // Check if all mandatory components (such as Smarty) installed, if not redirect user to web-base installation
 if (Dependency::checkMandatoryComponents($errmsg)) {

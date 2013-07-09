@@ -46,7 +46,7 @@
  * Load required classes
  */
 require_once('classes/LocaleList.php');
-require_once('classes/Locale.php');
+require_once('classes/WifidogLocale.php');
 
 /**
  * Represents a simple Langstring (no title, description, etc.)
