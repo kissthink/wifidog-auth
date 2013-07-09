@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1393/trunk/wifidog-auth/wifidog/classes/StatisticGraph
+END
+RegistrationsPerMonth.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/classes/StatisticGraph/RegistrationsPerMonth.php
+END
+RegistrationsCumulative.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/classes/StatisticGraph/RegistrationsCumulative.php
+END
+VisitsPerMonth.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1393/trunk/wifidog-auth/wifidog/classes/StatisticGraph/VisitsPerMonth.php
+END
+VisitsPerWeekday.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1238/trunk/wifidog-auth/wifidog/classes/StatisticGraph/VisitsPerWeekday.php
+END
+ConnectionsPerHour.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/classes/StatisticGraph/ConnectionsPerHour.php
+END

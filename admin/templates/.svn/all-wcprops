@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1363/trunk/wifidog-auth/wifidog/admin/templates
+END
+user_log.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1363/trunk/wifidog-auth/wifidog/admin/templates/user_log.html
+END
+online_users.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1058/trunk/wifidog-auth/wifidog/admin/templates/online_users.html
+END

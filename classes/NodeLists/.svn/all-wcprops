@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/classes/NodeLists
+END
+NodeListRSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListRSS.php
+END
+NodeListPDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListPDF.php
+END
+NodeListXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListXML.php
+END
+NodeListKML.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListKML.php
+END
+NodeListHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListHTML.php
+END
+NodeListJiWireCSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/NodeLists/NodeListJiWireCSV.php
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 34
+*~
+local.config.php
+public_stats
+
+
+END

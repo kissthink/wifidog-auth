@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/cron
+END
+page.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1326/trunk/wifidog-auth/wifidog/cron/page.php
+END
+vacuum.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/cron/vacuum.php
+END
+generate_public_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1393/trunk/wifidog-auth/wifidog/cron/generate_public_stats.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1393/trunk/wifidog-auth/wifidog/cron/README
+END
+cleanup.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/cron/cleanup.php
+END

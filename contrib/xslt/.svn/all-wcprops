@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1055/trunk/wifidog-auth/wifidog/contrib/xslt
+END
+hotspot_status_browser.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1055/trunk/wifidog-auth/wifidog/contrib/xslt/hotspot_status_browser.xsl
+END
+hotspot_status_pda.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1045/trunk/wifidog-auth/wifidog/contrib/xslt/hotspot_status_pda.xsl
+END

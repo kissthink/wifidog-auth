@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1410/trunk/wifidog-auth/wifidog/classes/Geocoders
+END
+GeocoderCanada.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1013/trunk/wifidog-auth/wifidog/classes/Geocoders/GeocoderCanada.php
+END
+GeocoderUsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1013/trunk/wifidog-auth/wifidog/classes/Geocoders/GeocoderUsa.php
+END
+GeocoderGoogleGlobal.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1410/trunk/wifidog-auth/wifidog/classes/Geocoders/GeocoderGoogleGlobal.php
+END
+GeocoderYahooGlobal.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1410/trunk/wifidog-auth/wifidog/classes/Geocoders/GeocoderYahooGlobal.php
+END

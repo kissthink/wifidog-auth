@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/classes/StatisticReport
+END
+NodeStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport/NodeStatus.php
+END
+UserReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1169/trunk/wifidog-auth/wifidog/classes/StatisticReport/UserReport.php
+END
+MostMobileUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1128/trunk/wifidog-auth/wifidog/classes/StatisticReport/MostMobileUsers.php
+END
+RegistrationLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport/RegistrationLog.php
+END
+NetworkStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport/NetworkStatus.php
+END
+MostFrequentUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1128/trunk/wifidog-auth/wifidog/classes/StatisticReport/MostFrequentUsers.php
+END
+MostPopularNodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/classes/StatisticReport/MostPopularNodes.php
+END
+ConnectionLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport/ConnectionLog.php
+END
+AnonymisedDataExport.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/classes/StatisticReport/AnonymisedDataExport.php
+END
+HighestBandwidthUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1128/trunk/wifidog-auth/wifidog/classes/StatisticReport/HighestBandwidthUsers.php
+END
+ConnectionGraphs.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport/ConnectionGraphs.php
+END
+UserRegistrationReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1127/trunk/wifidog-auth/wifidog/classes/StatisticReport/UserRegistrationReport.php
+END
+ActiveUserReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1237/trunk/wifidog-auth/wifidog/classes/StatisticReport/ActiveUserReport.php
+END
+ContentReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1147/trunk/wifidog-auth/wifidog/classes/StatisticReport/ContentReport.php
+END

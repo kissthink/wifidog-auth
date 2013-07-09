@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/templates/sites
+END
+hotspot_status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1391/trunk/wifidog-auth/wifidog/templates/sites/hotspot_status.tpl
+END
+lost_password.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/templates/sites/lost_password.tpl
+END
+signup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/templates/sites/signup.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1253/trunk/wifidog-auth/wifidog/templates/sites/index.tpl
+END
+indexglobaluser.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1391/trunk/wifidog-auth/wifidog/templates/sites/indexglobaluser.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1192/trunk/wifidog-auth/wifidog/templates/sites/help.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/980/trunk/wifidog-auth/wifidog/templates/sites/error.tpl
+END
+validate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1186/trunk/wifidog-auth/wifidog/templates/sites/validate.tpl
+END
+resend_validation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/templates/sites/resend_validation.tpl
+END
+hotspots_map.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1409/trunk/wifidog-auth/wifidog/templates/sites/hotspots_map.tpl
+END
+lost_username.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/templates/sites/lost_username.tpl
+END

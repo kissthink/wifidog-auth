@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1397/trunk/wifidog-auth/wifidog/locale
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/986/trunk/wifidog-auth/wifidog/locale/compile.sh
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1297/trunk/wifidog-auth/wifidog/locale/gen.sh
+END
+gensmarty.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1297/trunk/wifidog-auth/wifidog/locale/gensmarty.pl
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/946/trunk/wifidog-auth/wifidog/locale/.htaccess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1169/trunk/wifidog-auth/wifidog/locale/README.txt
+END

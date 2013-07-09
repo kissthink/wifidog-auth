@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/admin
+END
+generic_object_admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1424/trunk/wifidog-auth/wifidog/admin/generic_object_admin.php
+END
+import_user_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1272/trunk/wifidog-auth/wifidog/admin/import_user_database.php
+END
+stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/admin/stats.php
+END
+stats_show_graph.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/989/trunk/wifidog-auth/wifidog/admin/stats_show_graph.php
+END
+user_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/admin/user_log.php
+END
+admin_common.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/admin/admin_common.php
+END
+hotspot_location_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/admin/hotspot_location_map.php
+END
+online_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1350/trunk/wifidog-auth/wifidog/admin/online_users.php
+END

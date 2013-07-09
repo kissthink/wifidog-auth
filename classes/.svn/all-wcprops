@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1458/trunk/wifidog-auth/wifidog/classes
+END
+GisPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1013/trunk/wifidog-auth/wifidog/classes/GisPoint.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1419/trunk/wifidog-auth/wifidog/classes/Profile.php
+END
+ProfileTemplateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1419/trunk/wifidog-auth/wifidog/classes/ProfileTemplateField.php
+END
+Utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1159/trunk/wifidog-auth/wifidog/classes/Utils.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1438/trunk/wifidog-auth/wifidog/classes/Role.php
+END
+HtmlSafe.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/classes/HtmlSafe.php
+END
+Security.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Security.php
+END
+StakeholderType.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1435/trunk/wifidog-auth/wifidog/classes/StakeholderType.php
+END
+Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1438/trunk/wifidog-auth/wifidog/classes/Authenticator.php
+END
+FormSelectGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/FormSelectGenerator.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1457/trunk/wifidog-auth/wifidog/classes/User.php
+END
+HotspotGraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1444/trunk/wifidog-auth/wifidog/classes/HotspotGraph.php
+END
+ContentTypeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/ContentTypeFilter.php
+END
+DependenciesList.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/DependenciesList.php
+END
+VirtualHost.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/VirtualHost.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/946/trunk/wifidog-auth/wifidog/classes/.htaccess
+END
+HyperLinkUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/HyperLinkUtils.php
+END
+DateTimeWD.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/classes/DateTimeWD.php
+END
+SmartyWifidog.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/SmartyWifidog.php
+END
+Network.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1440/trunk/wifidog-auth/wifidog/classes/Network.php
+END
+StatisticGraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticGraph.php
+END
+Statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Statistics.php
+END
+LocaleList.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/LocaleList.php
+END
+HotspotGraphElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1444/trunk/wifidog-auth/wifidog/classes/HotspotGraphElement.php
+END
+ProfileTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1339/trunk/wifidog-auth/wifidog/classes/ProfileTemplate.php
+END
+InterfaceElements.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1186/trunk/wifidog-auth/wifidog/classes/InterfaceElements.php
+END
+GenericDataObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/GenericDataObject.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1424/trunk/wifidog-auth/wifidog/classes/Locale.php
+END
+ThemePack.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/ThemePack.php
+END
+NodeGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1444/trunk/wifidog-auth/wifidog/classes/NodeGroup.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/classes/Cache.php
+END
+GenericObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/GenericObject.php
+END
+StatisticReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/StatisticReport.php
+END
+Menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1435/trunk/wifidog-auth/wifidog/classes/Menu.php
+END
+ProfileField.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1249/trunk/wifidog-auth/wifidog/classes/ProfileField.php
+END
+Stakeholder.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Stakeholder.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Server.php
+END
+AbstractDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1456/trunk/wifidog-auth/wifidog/classes/AbstractDb.php
+END
+Content.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1456/trunk/wifidog-auth/wifidog/classes/Content.php
+END
+AbstractGeocoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1409/trunk/wifidog-auth/wifidog/classes/AbstractGeocoder.php
+END
+Dependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1435/trunk/wifidog-auth/wifidog/classes/Dependency.php
+END
+OpenIdServerWifidog.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/OpenIdServerWifidog.php
+END
+NodeList.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1433/trunk/wifidog-auth/wifidog/classes/NodeList.php
+END
+MainUI.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1458/trunk/wifidog-auth/wifidog/classes/MainUI.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1438/trunk/wifidog-auth/wifidog/classes/Mail.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1435/trunk/wifidog-auth/wifidog/classes/Session.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1453/trunk/wifidog-auth/wifidog/classes/Node.php
+END
+EventLogging.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1019/trunk/wifidog-auth/wifidog/classes/EventLogging.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1435/trunk/wifidog-auth/wifidog/classes/Permission.php
+END

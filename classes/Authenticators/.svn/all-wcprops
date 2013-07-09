@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1456/trunk/wifidog-auth/wifidog/classes/Authenticators
+END
+AuthenticatorLDAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1342/trunk/wifidog-auth/wifidog/classes/Authenticators/AuthenticatorLDAP.php
+END
+AuthenticatorRadius.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Authenticators/AuthenticatorRadius.php
+END
+AuthenticatorLocalUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1456/trunk/wifidog-auth/wifidog/classes/Authenticators/AuthenticatorLocalUser.php
+END
+AuthenticatorLocalUserNoSignup.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1421/trunk/wifidog-auth/wifidog/classes/Authenticators/AuthenticatorLocalUserNoSignup.php
+END
